@@ -5,7 +5,7 @@ A complete short link system. Divided into personal edition (open source license
 請聯係下方經銷商進行購買
 - 正在准備
 ### United States of America
-** Same as "More Countries" below! **
+**Same as "More Countries" below!**
 ### More Countries
 Please use the following contact information to get in touch with me!
 - Email: [prk@prk123.com](mailto:prk@prk123.com "Send Mail")
