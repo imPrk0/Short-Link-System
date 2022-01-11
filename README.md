@@ -20,3 +20,8 @@ Please use the following contact information to get in touch with me!
 - PayPal (PRC & US)
 - VISA (ALL)
 - MasterCard (ALL)
+- **BTC (Bitcoin)**
+- **ETH (Ethereum)**
+- **USDT**
+- **Trx**
+- **ATOM**
